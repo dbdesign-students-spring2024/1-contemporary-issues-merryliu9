@@ -1,3 +1,12 @@
-# Contemporary Issues In Data
+# Different Perspectives on how TikTok's usage of data could influence the United States
+In this document, I discuss two news articles that evaluates TikTok's handling of its users' data. The two articles offer different viewpoints from each other.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+# Driver’s Licenses, Addresses, Photos: Inside How TikTok Shares User Data
+In New York Time's [[Driver’s Licenses, Addresses, Photos: Inside How TikTok Shares User Data](https://www.nytimes.com/2023/05/24/technology/inside-how-tiktok-shares-user-data-lark.html?searchResultPosition=11)], the author provides a brief summary to the criticism toward TikTok's inproper handling of its user data. Mainly, the article focuses on the leakage of user data on Lark, which is an app used by internal workers of ByteDance. 
+
+The author then comments on the sharing of US users' data to engineers in ByteDance, as Lark exposes data like users' driver license, passport, and even child sexual abuse materials. Although touching a bit on Project Texas which is the resolution provided by TikTok in trying to combat this kind of criticism, the article makes no comment on the actual progress. Overall, the article mainly poses a criticizing attitude toward TikTok's handling of user data.
+
+# TikTok collects a lot of data. But that’s not the main reason officials say it’s a security risk
+Different to the first article's complete criticism, CNN's [TikTok collects a lot of data. But that’s not the main reason officials say it’s a security risk](https://www.cnn.com/2023/03/24/tech/tiktok-ban-national-security-hearing/index.html) provides a different aspect in viewing this event concerning TikTok's handling of its user data. The articles discusses the reasons that United States starts to concern about TikTok's regulation of users' data, as being quoted, "It’s not that we know TikTok has done something, it’s that distrust of China and awareness of Chinese espionage has increased." 
+
+Later in the writing, the author provides another insight - the reasons provided by authorities in criticizing TikTok's management of user data are only the "potential" for TikTok to be used for foreign intelligence. There are currently no public evidence suggesting that TikTok's usage of user data threatens United State's national security. Moreover, other tech companies that own social medias like Facebook and Twitter also collects users data in a similar degree as TitTok.
